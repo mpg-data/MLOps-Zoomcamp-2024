@@ -8,6 +8,10 @@ jupyter = "*"
 pandas = "*"
 pyarrow = "*"
 scikit-learn = "*"
+click = "*"
+mlflow = "*"
+setuptools = "*"
+hyperopt = "*"
 
 [dev-packages]
 
