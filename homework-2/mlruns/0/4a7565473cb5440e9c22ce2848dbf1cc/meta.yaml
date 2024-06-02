@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/MLOps-Zoomcamp-2024/homework-2/mlruns/0/4a7565473cb5440e9c22ce2848dbf1cc/artifacts
+end_time: 1717280444810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a7565473cb5440e9c22ce2848dbf1cc
+run_name: redolent-snake-871
+run_uuid: 4a7565473cb5440e9c22ce2848dbf1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717280420542
+status: 3
+tags: []
+user_id: ubuntu
